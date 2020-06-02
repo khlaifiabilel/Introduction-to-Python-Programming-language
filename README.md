@@ -69,3 +69,49 @@ After considering declining support for Python 2 programming language and added 
 * Python 3 rules of ordering comparisons are simplified whereas Python 2 rules of ordering comparison are complex.
 * Python 3 offers Range() function to perform iterations whereas, In Python 2, the xrange() is used for iterations.
 
+## How To Setup On Linux
+
+Run the following commands as root or user with sudo access to update the packages list and install the prerequisites:
+
+```
+// Run
+
+sudo apt update
+sudo apt install software-properties-common
+
+```
+
+Add the deadsnakes PPA to your system’s sources list:
+
+```
+// Run
+
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+```
+When prompted press Enter to continue:
+
+```
+// Run
+Press [ENTER] to continue or Ctrl-c to cancel adding it.
+
+```
+Once the repository is enabled, install Python 3.8 with:
+
+```
+// Run
+sudo apt install python3.8
+
+```
+
+Verify that the installation was successful by typing:
+
+```
+// Run
+python3.8 --version
+Python 3.8.0
+
+
+```
+
+At this point, Python 3.8 is installed on your Ubuntu system, and you can start using it.
