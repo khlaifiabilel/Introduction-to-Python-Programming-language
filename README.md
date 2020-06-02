@@ -1,5 +1,7 @@
 ![Python](https://miro.medium.com/max/1400/1*HacaJfdu7HF8V4gIoA98ww.png)
 
+![Python](https://forthebadge.com/images/badges/built-by-developers.svg) ![Python](https://forthebadge.com/images/badges/built-with-love.svg) ![Python](https://forthebadge.com/images/badges/for-you.svg) ![Python](https://forthebadge.com/images/badges/made-with-python.svg) ![Python](https://forthebadge.com/images/badges/makes-people-smile.svg) ![Python](https://forthebadge.com/images/badges/uses-git.svg) ![Python](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
+
 # Introduction to Python Programming language
 
 > What is Python ?
