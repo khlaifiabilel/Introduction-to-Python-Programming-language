@@ -120,6 +120,16 @@ At this point, Python 3.8 is installed on your Ubuntu system, and you can start 
 
 This is a complete Python Course: Go From Beginner To Expert , In this course you will learn from scratch. We will assume that you are a complete beginner and by the end of the course you will be at advanced level. This course contain Real-World examples and Hands On practicals. We will guide you step by step so that you can understand better. This course will allow you to work on the Real-World as a professional.
 
+## Intelligent assistant to learn Python
+
+## What is a ChatBot ?
+
+A chatbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent.
+
+## What a ChatBot can do ?
+
+It is an assistant that communicates with us through text messages, a virtual companion that integrates into websites, applications or instant messengers and helps entrepreneurs to get closer to customers. Such a bot is an automated system of communication with users.
+
 # FAQ
 
 - **How do I do *specifically* so and so?**
@@ -135,4 +145,4 @@ Reach out to me at one of the following places!
 # License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="https://github.com/KalifiaBillal" target="_blank">Kalifiabillal</a>.
+- Copyright 2020 © <a href="https://github.com/KalifiaBillal" target="_blank">Kalifiabillal</a>.
